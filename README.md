@@ -1,4 +1,3 @@
-# keshav9926.
 # Hi there, I'm Keshav Kakani! 👋
 
 ### B.Tech Undergrad at IIT Jodhpur | Software Developer & AI Systems Builder
@@ -6,9 +5,9 @@
 ---
 
 ### 🚀 About Me
-* 🎓 **Education**: Pre-final year undergraduate student at IIT Jodhpur.
+* 🎓 **Education**: Pre-final year B.Tech at IIT Jodhpur.
 * 💼 **Current Role**: SDE Intern at UnitedTechlab, shipping production APIs & DevOps automation.
-* 🧠 **Interests**: Low-latency backend architectures, system design, and building custom AI agents / RAG pipelines.
+* 🧠 **Interests**: Low-latency backend architectures, system design, and building custom AI agents / RAG pipelines, lowkey chess,football & cricket player.
 * ⚙️ **Fun Project**: Built a custom C++ chess engine supporting real-time WebSocket analysis.
 
 ---
