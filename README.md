@@ -2,7 +2,9 @@ ever since i was a kid, i knew my dream was to scroll reels in between claude wr
 
 no i just want my github to be clean.  
 <p align="center">
-  <img src="assets/now-playing.svg" alt="last jammed out to" />
+  <a href="https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ" title="Earrings — Malcolm Todd (listen on Spotify)">
+    <img src="assets/now-playing.svg" alt="last jammed out to — Earrings by Malcolm Todd" />
+  </a>
 </p>
 
 
