@@ -1,6 +1,6 @@
 # Hi there, I'm Keshav Kakani! 👋
 
-### Backend & AI Systems Builder 🚀
+### Building First Impression — an AI user-journey simulator 🚀
 ![](https://komarev.com/ghpvc/?username=keshav9926&style=flat-square)
 
 I'm Keshav, a pre-final year B.Tech student at IIT Jodhpur. I build production backends—auth, pipelines, deployment—and integrate LLM systems (RAG, multi-agent orchestration, and evals). 
@@ -9,16 +9,16 @@ I'm Keshav, a pre-final year B.Tech student at IIT Jodhpur. I build production b
 - [UnitedTechlab](https://unitedtechlab.com) - SDE Intern (CI/CD automation, zero-disk uploads, and production APIs)
 
 **Projects**
+- [First Impression](https://github.com/keshav9926/first-impression) - AI crew simulating first-run user journeys to map friction & fact-check product claims
 - [QuillForge](https://github.com/unitedtechlab/QUillForge_) - Multi-role publishing platform with rich text, TTS & optimistic UI
 - [ChessMind](https://github.com/keshav9926/ChessMind) - C++ chess engine supporting FastAPI WebSockets & live analysis
 - [Hybrid Movie Recommender](https://github.com/keshav9926/Hybrid-AI-movie-recommender-system) - Multithreaded recommender system with actor/genre profiles
-- [First Impression](https://github.com/keshav9926/first-impression) - Multi-agent product analysis crew simulating first-run user journeys
 
 ### 🧠 Beyond the Code
 
 | ♟️ Chess | 🎬 Film Vault | ⚽ Sports | 🎧 Soundscape |
 | :--- | :--- | :--- | :--- |
-| **Elo:** ~2000 Peak<br>**ID:** [keshav8989](https://lichess.org/@/keshav8989) (Lichess)<br>*(Built [ChessMind](https://github.com/keshav9926/ChessMind))* | **ID:** [k3shavexe](https://letterboxd.com/k3shavexe/) (Letterboxd)<br>**Favs:** *Interstellar*, *Inception*<br>*(Built [Recommender](https://github.com/keshav9926/Hybrid-AI-movie-recommender-system))* | **On the Field:**<br>⚽ Football (Midfield)<br>🏏 Cricket (Batsman) | **Coding Jams:**<br>Lofi & Synthwave 💿<br>*Daft Punk* |
+| **Elo:** ~2000 Peak<br>**ID:** [keshav8989](https://lichess.org/@/keshav8989) (Lichess)<br>*(Built [ChessMind](https://github.com/keshav9926/ChessMind))* | **ID:** [k3shavexe](https://letterboxd.com/k3shavexe/) (Letterboxd)<br>**Favs:** *Interstellar*, *Inception*<br>*(Built [Recommender](https://github.com/keshav9926/Hybrid-AI-movie-recommender-system))* | **On the Field:**<br>⚽ Football (Midfield)<br>🏏 Cricket (Batsman) | **Coding Jams:**<br>Lofi & Synthwave 💿<br>🎧 [*Earrings* - Malcolm Todd](https://open.spotify.com/track/3VHelsfii37qYvcvNnVWSI) |
 
 <details>
 <summary>tools & stats</summary>
