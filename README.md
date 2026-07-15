@@ -5,6 +5,14 @@
 
 I'm Keshav, a pre-final year B.Tech student at IIT Jodhpur. I build production backends—auth, pipelines, deployment—and integrate LLM systems (RAG, multi-agent orchestration, and evals). 
 
+hello! here's a little about me:
+
+# i really like music 🎧
+
+<p align="center">
+  <img src="assets/now-playing.svg" alt="Last Jammed Out To" />
+</p>
+
 **Work**
 - [UnitedTechlab](https://unitedtechlab.com) - SDE Intern (CI/CD automation, zero-disk uploads, and production APIs)
 
@@ -13,14 +21,6 @@ I'm Keshav, a pre-final year B.Tech student at IIT Jodhpur. I build production b
 - [QuillForge](https://github.com/unitedtechlab/QUillForge_) - Multi-role publishing platform with rich text, TTS & optimistic UI
 - [ChessMind](https://github.com/keshav9926/ChessMind) - C++ chess engine supporting FastAPI WebSockets & live analysis
 - [Hybrid Movie Recommender](https://github.com/keshav9926/Hybrid-AI-movie-recommender-system) - Multithreaded recommender system with actor/genre profiles
-
-hello! here's a little about me:
-
-# i really like music 🎧
-
-<p align="center">
-  <img src="assets/now-playing.svg" alt="Last Jammed Out To" />
-</p>
 
 <details>
 <summary>more about me (hobbies & stats)</summary>
