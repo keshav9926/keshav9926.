@@ -17,8 +17,8 @@ ever since i was a kid, i knew my dream was to scroll reels in between claude di
 - [hybrid movie recommender](https://github.com/keshav9926/Hybrid-AI-movie-recommender-system) - multithreaded recommender system with actor/genre profiles
 
 **main quests**
-- [lichess](https://lichess.org/@/keshav8989) - peak ~2000 elo chess player
-- [letterboxd](https://letterboxd.com/k3shavexe/) - logging cinematic masterpieces
-- football - running the midfield engine
+- [lichess](https://lichess.org/@/keshav8989)
+- [letterboxd](https://letterboxd.com/k3shavexe/)
+- football
 
 <sub>connect with me on [linkedin](https://www.linkedin.com/in/keshav-kakani-987586282/) or via [email](mailto:kkakani160@gmail.com)</sub>
