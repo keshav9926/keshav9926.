@@ -12,7 +12,7 @@ no i just want my github to be clean.
 **work**
 
 - [unitedtechlab](https://unitedtechlab.com) - SDE intern (CI/CD automation, zero-disk uploads, and production APIs)
-- [first impression](https://github.com/keshav9926/First-Impression) - AI crew simulating first-run user journeys to map friction & fact-check product claims
+- [first impression](https://github.com/keshav9926/First-Impression-) - AI crew simulating first-run user journeys to map friction & fact-check product claims
 
 **projects**
 - [quillforge](https://github.com/unitedtechlab/QUillForge_) - multi-role publishing platform with rich text, TTS & optimistic UI
