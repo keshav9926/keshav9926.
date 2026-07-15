@@ -1,7 +1,5 @@
-ever since i was a kid, i knew my dream was to scroll reels in between claude did the work.
-
-**i really like music** 
-
+ever since i was a kid, i knew my dream was to scroll reels in between claude write the code.
+no i just want my github to be clean. 
 <p align="center">
   <img src="assets/now-playing.svg" alt="last jammed out to" />
 </p>
