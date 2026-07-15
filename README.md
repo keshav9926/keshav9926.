@@ -14,14 +14,21 @@ I'm Keshav, a pre-final year B.Tech student at IIT Jodhpur. I build production b
 - [ChessMind](https://github.com/keshav9926/ChessMind) - C++ chess engine supporting FastAPI WebSockets & live analysis
 - [Hybrid Movie Recommender](https://github.com/keshav9926/Hybrid-AI-movie-recommender-system) - Multithreaded recommender system with actor/genre profiles
 
-### 🧠 Beyond the Code
+hello! here's a little about me:
 
-| ♟️ Chess | 🎬 Film Vault | ⚽ Sports | 🎧 Soundscape |
-| :--- | :--- | :--- | :--- |
-| **Elo:** ~2000 Peak<br>**ID:** [keshav8989](https://lichess.org/@/keshav8989) (Lichess)<br>*(Built [ChessMind](https://github.com/keshav9926/ChessMind))* | **ID:** [k3shavexe](https://letterboxd.com/k3shavexe/) (Letterboxd)<br>**Favs:** *Interstellar*, *Inception*<br>*(Built [Recommender](https://github.com/keshav9926/Hybrid-AI-movie-recommender-system))* | **On the Field:**<br>⚽ Football (Midfield)<br>🏏 Cricket (Batsman) | **Coding Jams:**<br>Lofi & Synthwave 💿<br>🎧 [*Earrings* - Malcolm Todd](https://open.spotify.com/track/3VHelsfii37qYvcvNnVWSI) |
+# i really like music 🎧
+
+<p align="center">
+  <img src="assets/now-playing.svg" alt="Last Jammed Out To" />
+</p>
 
 <details>
-<summary>tools & stats</summary>
+<summary>more about me (hobbies & stats)</summary>
+
+### ♟️ Hobbies & Game IDs
+- ♟️ **Chess:** Peak ~2000 Elo | Lichess ID: [keshav8989](https://lichess.org/@/keshav8989) (Check out my [ChessMind](https://github.com/keshav9926/ChessMind) engine)
+- 🎬 **Films:** Cinephile | Letterboxd: [k3shavexe](https://letterboxd.com/k3shavexe/) (Check out my [Movie Recommender](https://github.com/keshav9926/Hybrid-AI-movie-recommender-system))
+- ⚽ **Sports:** Football (Midfield general) & Cricket (Batsman)
 
 ### 🛠️ Languages and Tools
 
